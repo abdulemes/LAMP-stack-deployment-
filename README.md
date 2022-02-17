@@ -1,2 +1,2 @@
-# Deploying of LAMP stack
+# Deployment of LAMP stack
 DevOps Project1 
