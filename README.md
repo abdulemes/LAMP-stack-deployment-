@@ -1,2 +1,2 @@
-# PortFolio-Projects
-My DevOps Projects 
+# Deploying of LAMP stack
+DevOps Project1 
